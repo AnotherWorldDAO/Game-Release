@@ -7,5 +7,6 @@ Download URL: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0
 Official Links
 - Main website: https://anotherworld.gg
 - Twitter: https://twitter.com/anotherworlddao
+- Lead Dev: `jackie.eth` https://twitter.com/JackieLeeETH
 - ENS ID: https://ensid.xyz/
 - Discord: https://discord.gg/mmpXheBd
