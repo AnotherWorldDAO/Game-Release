@@ -1,8 +1,8 @@
 Another World Demo
 ===
-Latest Release Build - Windows Desktop Client v0.1.1 (Dec 27, 2022)
+Latest Release Build - Windows Desktop Client v0.1.6 (Dec 30, 2022)
 
-Download URL: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.1
+Download URL: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.6
 
 Official Links
 - Main website: https://anotherworld.gg
