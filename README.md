@@ -1,8 +1,8 @@
 Another World Demo
 ===
-Latest Release Build - Windows & MAC Desktop Client v0.1.14 (Jan 19, 2023)
+Latest Release Build - Windows & MAC Desktop Client v0.1.15 (Jan 23, 2023)
 
-Download URL: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.14
+Download URL: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.15
 
 Official Links
 ===
