@@ -1,8 +1,8 @@
 Another World Demo
 ===
-Latest Release Build - [Windows & MAC Desktop Client v0.1.18](https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/download/v0.1.18/AnotherWorldLauncher.exe) (Feb 25, 2023)
+Latest Release Build `v0.1.19` (March 10, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.18
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.19 
 
 Official Links
 ===
@@ -13,6 +13,7 @@ Official Links
 - Lead Dev: `jackie.eth` https://twitter.com/JackieLeeETH
 - Discord: (invite-only)
 - Launch Partner - game launcher: https://www.hyperplay.xyz/
+- Launch Partner - game launcher: https://store.epicgames.com/
 - Launch Partner - game infra/windows launcher: https://veverse.com/
 - Launch Partner - in-game wallet verification: https://tokenproof.xyz/
 - Launch Partner - digital fashion: https://dmktz.io/
