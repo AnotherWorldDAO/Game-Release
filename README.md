@@ -10,9 +10,9 @@ Official Links
 - In-game NFT collection: https://opensea.io/collection/anotherworldgg on Optimism https://www.optimism.io/
 - In-game currency (read-only) as game credentials: $APE, $OP
 - Twitter: https://twitter.com/anotherworlddao
+- Discord: https://discord.gg/anotherworlddao
 - Hyperplay: https://store.hyperplay.xyz/game/anotherworld
 - Lead Dev: `jackie.eth` https://twitter.com/JackieLeeETH
-- Discord: https://discord.gg/anotherworlddao
 - Launch Partner - game infra (NFTs & onchain game states): [Optimism](https://www.optimism.io/)
 - Launch Partner - game infra (onchain game states): [AltLayer](https://altlayer.io/)
 - Launch Partner - game launcher: [HyperPlay](https://www.hyperplay.xyz/)
