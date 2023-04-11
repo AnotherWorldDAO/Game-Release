@@ -1,8 +1,8 @@
 Another World Demo
 ===
-Latest Release Build `v0.1.20` (April 1, 2023)
+Latest Release Build `v0.1.21` (April 10, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.20 
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.21 
 
 Official Links
 ===
