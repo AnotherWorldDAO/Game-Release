@@ -1,13 +1,13 @@
 Another World Demo
 ===
-Latest Release Build `v0.1.23` (April 28, 2023)
+Latest Release Build `v0.1.24` (May 7, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.23
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.24
 
 Official Links
 ===
 - Website: https://anotherworld.gg
-- In-game NFT collection: https://opensea.io/collection/anotherworldgg on Optimism https://www.optimism.io/
+- In-game NFT collection: https://opensea.io/collection/treasurefragments on Optimism https://www.optimism.io/
 - In-game currency (read-only) as game credentials: $APE, $OP
 - Twitter: https://twitter.com/anotherworlddao
 - Discord: https://discord.gg/anotherworlddao
