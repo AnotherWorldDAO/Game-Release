@@ -6,6 +6,10 @@ Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v
 
 Alpha Tester Program (Epic Games Store): [Join here](https://docs.google.com/forms/d/e/1FAIpQLSebaVnx972JBFW6-3FEUH1M_NVVw3j5IKZdt2z-53rPxOVOBA/viewform)
 
+Another World is a grant recipient of Optimism's [Growth Experiments Cycle 11 (50K OP)](https://gov.optimism.io/t/cycle-11-final-grants-roundup/5842).
+
+
+
 Official Links
 ===
 - Website: https://anotherworld.gg
