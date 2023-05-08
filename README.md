@@ -9,12 +9,13 @@ Alpha Tester Program (Epic Games Store): [Join here](https://docs.google.com/for
 Official Links
 ===
 - Website: https://anotherworld.gg
+- Hyperplay: https://store.hyperplay.xyz/game/anotherworld
 - In-game NFT collection: https://opensea.io/collection/treasurefragments on Optimism https://www.optimism.io/
 - In-game currency (read-only) as game credentials: $APE, $OP
 - Twitter: https://twitter.com/anotherworlddao
 - Discord: https://discord.gg/anotherworlddao
 - Twitch: https://www.twitch.tv/anotherworlddao
-- Hyperplay: https://store.hyperplay.xyz/game/anotherworld
+- Dune Analytics: https://dune.com/jackieleeeth/anotherworld
 - Lead Dev: `jackie.eth` https://twitter.com/JackieLeeETH
 - Launch Partner - game infra (NFTs & onchain game states): [Optimism](https://www.optimism.io/)
 - Launch Partner - game infra (onchain game states): [SAGA](https://saga.xyz/)
