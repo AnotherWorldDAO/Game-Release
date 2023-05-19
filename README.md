@@ -1,8 +1,8 @@
 Another World Demo
 ===
-Latest Release Build `v0.1.24` (May 7, 2023)
+Latest Release Build `v0.1.25` (May 18, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.24
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.25
 
 Alpha Tester Program (Epic Games Store): [Join here](https://docs.google.com/forms/d/e/1FAIpQLSebaVnx972JBFW6-3FEUH1M_NVVw3j5IKZdt2z-53rPxOVOBA/viewform)
 
@@ -20,6 +20,8 @@ Official Links
 - Discord: https://discord.gg/anotherworlddao
 - Twitch: https://www.twitch.tv/anotherworlddao
 - Dune Analytics: https://dune.com/jackieleeeth/anotherworld
+- Github: https://github.com/AnotherWorldDAO/
+- Game Contracts: https://github.com/AnotherWorldDAO/game-contracts
 - Lead Dev: `jackie.eth` https://twitter.com/JackieLeeETH
 - Launch Partner - game infra (NFTs & onchain game states): [Optimism](https://www.optimism.io/)
 - Launch Partner - game infra (onchain game states): [SAGA](https://saga.xyz/)
