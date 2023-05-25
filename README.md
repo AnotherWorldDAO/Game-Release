@@ -1,12 +1,16 @@
-Another World Demo
-===
+# Another World Pre-Season Release
+- Another World pre-season is currently open till early June! Get your Season 1 score multiplier (1.2x to 2x) by launching the game from the HyperPlay Launcher and acquiring one or more in-game NFT items.
+- Another World Season 1 runs from `June 15th to Aug 15th` with a prize pool of $100k including 50k OP. Another World is a grant recipient of Optimism's [Growth Experiments](https://gov.optimism.io/t/cycle-11-final-grants-roundup/5842) Cycle 11 (50K OP).
+
+---
+
 Latest Release Build `v0.1.26` (May 24, 2023)
 
 Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.26
 
 Alpha Tester Program (Epic Games Store): [Join here](https://docs.google.com/forms/d/e/1FAIpQLSebaVnx972JBFW6-3FEUH1M_NVVw3j5IKZdt2z-53rPxOVOBA/viewform)
 
-Another World is a grant recipient of Optimism's [Growth Experiments Cycle 11 (50K OP)](https://gov.optimism.io/t/cycle-11-final-grants-roundup/5842).
+
 
 
 
