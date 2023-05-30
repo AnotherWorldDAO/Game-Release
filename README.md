@@ -8,9 +8,9 @@
 
 ---
 
-Latest Release Build `v0.1.26` (May 24, 2023)
+Latest Release Build `v0.1.27` (May 29, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.26
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.27
 
 Alpha Tester Program (Epic Games Store): [Join here](https://docs.google.com/forms/d/e/1FAIpQLSebaVnx972JBFW6-3FEUH1M_NVVw3j5IKZdt2z-53rPxOVOBA/viewform)
 
@@ -39,3 +39,4 @@ Official Links
 - Launch Partner - in-game wallet verification: [tokenproof](https://tokenproof.xyz/)
 - Launch Partner - digital fashion: [DMKTZ](https://dmktz.io/)
 - Launch Partner - digital fashion: [1Combo](https://testnet.1combo.io/)
+- Launch Partner - distribution: [BitMetis](https://bitmetis.io/)
