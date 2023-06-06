@@ -8,7 +8,7 @@
 
 ---
 
-Latest Release Build `v0.1.28` (June 2, 2023)
+Latest Release Build `v0.1.29` (June 6, 2023)
 
 Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.28
 
