@@ -8,9 +8,9 @@
 
 ---
 
-Latest Release Build `v0.1.30` (June 13, 2023)
+Latest Release Build `v0.1.31` (June 17, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.30
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.31
 
 Alpha Tester Program (Epic Games Store): [Join here](https://docs.google.com/forms/d/e/1FAIpQLSebaVnx972JBFW6-3FEUH1M_NVVw3j5IKZdt2z-53rPxOVOBA/viewform)
 
@@ -32,7 +32,7 @@ Official Links
 - Launch Partner - game infra (NFTs & onchain game states): [Optimism](https://www.optimism.io/)
 - Launch Partner - game infra (onchain game states): [SAGA](https://saga.xyz/)
 - Launch Partner - game infra (onchain game states): [AltLayer](https://altlayer.io/)
-- Launch Partner - game launcher & in-game wallet verification: [HyperPlay](https://www.hyperplay.xyz/)
+- Launch Partner - game launcher & in-game wallet verification & distribution: [HyperPlay](https://www.hyperplay.xyz/)
 - Launch Partner - game launcher: [Epic Games Store](https://store.epicgames.com/)
 - Launch Partner - game infra (pixel streaming & windows launcher): [VeVerse](https://veverse.com/)
 - Launch Partner - game infra (pixel streaming): [Arcware](https://arcware.com/)
@@ -40,3 +40,5 @@ Official Links
 - Launch Partner - digital fashion: [DMKTZ](https://dmktz.io/)
 - Launch Partner - digital fashion: [1Combo](https://testnet.1combo.io/)
 - Launch Partner - distribution: [BitMetis](https://bitmetis.io/)
+- Launch Partner - digital collectible: [MonsterTruckNinja](https://monstertruckninja.com/)
+- Launch Partner - onchain game explorer/leaderboard: [Modular Cloud](https://modular.cloud/)
