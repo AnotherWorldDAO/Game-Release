@@ -42,3 +42,4 @@ Official Links
 - Launch Partner - distribution: [BitMetis](https://bitmetis.io/)
 - Launch Partner - digital collectible: [MonsterTruckNinja](https://monstertruckninja.com/)
 - Launch Partner - onchain game explorer/leaderboard: [Modular Cloud](https://modular.cloud/)
+- Launch Partner - ape avatar: [@riv8if](https://twitter.com/riv8if)
