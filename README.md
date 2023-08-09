@@ -10,9 +10,9 @@
 
 ---
 
-Latest Release Build `v0.1.34` (Aug 4, 2023)
+Latest Release Build `v0.1.35` (Aug 8, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.34
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.35
 
 Alpha Tester Program (Epic Games Store): [Join here](https://docs.google.com/forms/d/e/1FAIpQLSebaVnx972JBFW6-3FEUH1M_NVVw3j5IKZdt2z-53rPxOVOBA/viewform)
 
@@ -45,3 +45,5 @@ Official Links
 - Launch Partner - digital collectible: [MonsterTruckNinja](https://monstertruckninja.com/)
 - Launch Partner - onchain game explorer/leaderboard: [Modular Cloud](https://modular.cloud/)
 - Launch Partner - ape avatar: [@riv8if](https://twitter.com/riv8if)
+- Launch Partner - community arts: [OTHERspace](https://twitter.com/OTHERspaceFM)
+- Launch Partner - arts: [k10](https://twitter.com/K10WTF)
