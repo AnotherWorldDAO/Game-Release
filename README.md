@@ -42,6 +42,7 @@ Official Links
 - Launch Partner - digital fashion: [DMKTZ](https://dmktz.io/)
 - Launch Partner - digital fashion: [1Combo](https://testnet.1combo.io/)
 - Launch Partner - distribution: [BitMetis](https://bitmetis.io/)
+- Launch Partner - distribution: [Galxe](https://galxe.com/anotherworld)
 - Launch Partner - digital collectible: [MonsterTruckNinja](https://monstertruckninja.com/)
 - Launch Partner - onchain game explorer/leaderboard: [Modular Cloud](https://modular.cloud/)
 - Launch Partner - ape avatar: [@riv8if](https://twitter.com/riv8if)
