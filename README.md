@@ -10,9 +10,9 @@
 
 ---
 
-Latest Release Build `v0.1.39` (Oct 8, 2023)
+Latest Release Build `v0.1.41` (Oct 18, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.39
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.41
 
 Alpha Tester Program (Epic Games Store): [Join here](https://anotherworld.gg/alpha)
 
