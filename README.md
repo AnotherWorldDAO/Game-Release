@@ -16,6 +16,8 @@ Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v
 
 Alpha Tester Program (Epic Games Store): [Join here](https://anotherworld.gg/alpha)
 
+Submit 2D arts and 3D assets: [Submit here](https://forms.gle/f8ATP4gx3ch9nxNA7)
+
 
 Official Links
 ===
