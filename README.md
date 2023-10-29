@@ -18,6 +18,7 @@ Alpha Tester Program (Epic Games Store): [Join here](https://anotherworld.gg/alp
 
 Submit 2D arts and 3D assets: [Submit here](https://forms.gle/f8ATP4gx3ch9nxNA7)
 
+We are currently using [ApeChain Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet) (OP-Stack Sepolia L2) for minting Soul Crystals.
 
 Official Links
 ===
@@ -27,11 +28,12 @@ Official Links
 - In-game NFT collection: https://opensea.io/collection/treasurefragments on Optimism https://www.optimism.io/
 - In-game currency (read-only) as game credentials: $APE, $OP
 - Twitter: https://twitter.com/anotherworlddao
-- Discord: https://discord.gg/anotherworlddao
+- Discord: (coming soon)
 - Twitch: https://www.twitch.tv/anotherworlddao
 - Dune Analytics: https://dune.com/jackieleeeth/anotherworld
 - Github: https://github.com/AnotherWorldDAO/
 - Game Contracts: https://github.com/AnotherWorldDAO/game-contracts
+- Custom Chain OP-Stack: https://explorerl2-anotherworld-t6iniul41y.t.conduit.xyz/ (to be replaced by ApeChain Testnet)
 - Lead Dev: `jackie.eth` https://twitter.com/JackieLeeETH
 - Launch Partner - game infra (NFTs & onchain game states): [Optimism](https://www.optimism.io/)
 - Launch Partner - game infra (onchain game states): [SAGA](https://saga.xyz/)
