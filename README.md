@@ -18,7 +18,7 @@ Alpha Tester Program (Epic Games Store): [Join here](https://anotherworld.gg/alp
 
 Submit 2D arts and 3D assets: [Submit here](https://forms.gle/f8ATP4gx3ch9nxNA7)
 
-We are currently using [ApeChain Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet) (OP-Stack Sepolia L2) for minting Soul Crystals.
+We are currently using [ApeChain Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet) (OP-Stack Sepolia L2) for minting Soul Crystals in the PVP zone.
 
 Official Links
 ===
