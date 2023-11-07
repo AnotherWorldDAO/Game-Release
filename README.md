@@ -1,6 +1,6 @@
 # Another World
 
-![anotherworld16x9logo](https://github.com/AnotherWorldDAO/Game-Release/assets/182446/bded3e40-fae6-47ce-9bb8-83fd70890cf9)
+![anotherworld16x9logoS2](https://github.com/AnotherWorldDAO/Game-Release/assets/182446/562a47f2-8077-4c91-83e5-3ca8e80e93ec)
 
 - Another World is a multiplayer 3D open world integrated with gamified web3 utilities including NFT IPs, treasure hunts, and PVP fights. Players can choose an NFT collection to start their journey in this overgrowing open world.
 - Another World is in preparation for Season 2! [657 players](https://dune.com/queries/3006176/4990191) acquired score multipliers for their Season 2 activities.
@@ -10,15 +10,17 @@
 
 ---
 
-Latest Release Build `v0.1.42` (Oct 25, 2023)
+Latest Release Build `v0.1.43` (Nov. 7, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.42
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.43
 
 Alpha Tester Program (Epic Games Store): [Join here](https://anotherworld.gg/alpha)
 
 Submit 2D arts and 3D assets: [Submit here](https://forms.gle/f8ATP4gx3ch9nxNA7)
 
 We are currently using [ApeChain Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet) (OP-Stack Sepolia L2) for minting Soul Crystals in the PVP zone.
+
+Another World is [MadeByApes#218](https://madeby.yuga.com/apes/product/0xdcfecf3a2f67469c2075dc9a4779ee955bfc57f1fd4971e4bfbc6cac00d0607f)
 
 Official Links
 ===
@@ -34,6 +36,8 @@ Official Links
 - Github: https://github.com/AnotherWorldDAO/
 - Game Contracts: https://github.com/AnotherWorldDAO/game-contracts
 - Custom Chain OP-Stack: https://explorerl2-anotherworld-t6iniul41y.t.conduit.xyz/ (to be replaced by ApeChain Testnet)
+- Made By Apes #218: https://madeby.yuga.com/apes/product/0xdcfecf3a2f67469c2075dc9a4779ee955bfc57f1fd4971e4bfbc6cac00d0607f
+- ApeChain Testnet: https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet
 - Lead Dev: `jackie.eth` https://twitter.com/JackieLeeETH
 - Launch Partner - game infra (NFTs & onchain game states): [Optimism](https://www.optimism.io/)
 - Launch Partner - game infra (onchain game states): [SAGA](https://saga.xyz/)
