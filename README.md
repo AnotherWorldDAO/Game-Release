@@ -38,6 +38,7 @@ Official Links
 - Custom Chain OP-Stack: https://explorerl2-anotherworld-t6iniul41y.t.conduit.xyz/ (to be replaced by ApeChain Testnet)
 - Made By Apes #218: https://madeby.yuga.com/apes/product/0xdcfecf3a2f67469c2075dc9a4779ee955bfc57f1fd4971e4bfbc6cac00d0607f
 - ApeChain Testnet: https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet
+- ApeChain Testnet Explorer: https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/
 - Lead Dev: `jackie.eth` https://twitter.com/JackieLeeETH
 - Launch Partner - game infra (NFTs & onchain game states): [Optimism](https://www.optimism.io/)
 - Launch Partner - game infra (onchain game states): [SAGA](https://saga.xyz/)
