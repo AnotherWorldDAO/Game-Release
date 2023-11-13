@@ -39,6 +39,7 @@ Official Links
 - Made By Apes #218: https://madeby.yuga.com/apes/product/0xdcfecf3a2f67469c2075dc9a4779ee955bfc57f1fd4971e4bfbc6cac00d0607f
 - ApeChain Testnet: https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet
 - ApeChain Testnet Explorer: https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/
+- Game Prize contracts: $APE([ETH](https://etherscan.io/address/0x496e83e7a74561c26d5151c0fce2cc400e884e49)), $OP([OP1](https://optimistic.etherscan.io/address/0x0b69157f85fb767676428f0d32866ee2b53ffcc6)), $OP([OP2](https://optimistic.etherscan.io/address/0x5556b094288a9e711eb579c75e0f5e6eeb5f551b)), $GG([ApeChainTest1](https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/address/0xEA37A064f1Eb0Da834fd01003e7831c902a42EFd))
 - Lead Dev: `jackie.eth` https://twitter.com/JackieLeeETH
 - Launch Partner - game infra (NFTs & onchain game states): [Optimism](https://www.optimism.io/)
 - Launch Partner - game infra (onchain game states): [SAGA](https://saga.xyz/)
