@@ -7,22 +7,27 @@
 - Another World does passive airdrops based on players' ETH addresses.
 - Another World is in preparation for Season 2! [657 players](https://dune.com/queries/3006176/4990191) acquired score multipliers for their Season 2 activities.
 - Another World Season 1 was from `July 26th to Aug 15th`. We plan to distribute prizes with our Season 2 activities.
-- Another World is a grant recipient of Optimism's [Growth Experiments](https://gov.optimism.io/t/cycle-11-final-grants-roundup/5842) Cycle 11 (50K OP).
+- Another World is a grant recipient of Optimism's [Growth Experiments](https://gov.optimism.io/t/cycle-11-final-grants-roundup/5842) Cycle 11 (50K OP) and [RetroPGF3](https://x.com/JackieLeeETH/status/1745625407100219728?s=20) (34k OP).
 - Help us by submitting [bug reports](https://github.com/AnotherWorldDAO/MultiplayerDemo/issues). Another World is built by indie devs who love web3, games, and metaverse.
 
 ---
 
-Latest Release Build `v0.1.47` (Dec. 19, 2023)
+Latest Release Build `v0.1.48` (Jan. 21, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.47
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.48
 
 Alpha Tester Program (Epic Games Store): [Join here](https://anotherworld.gg/alpha)
 
 Submit 2D arts and 3D assets: [Submit here](https://forms.gle/f8ATP4gx3ch9nxNA7)
 
-We are currently using [ApeChain Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet) (OP-Stack Sepolia L2) for minting Soul Crystals in the PVP zone.
+Another World is using [ApeChain Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet) (OP-Stack Sepolia L2) for minting Soul Crystals in the PVP zone.
 
 Another World is [MadeByApes#218](https://madeby.yuga.com/apes/product/0xdcfecf3a2f67469c2075dc9a4779ee955bfc57f1fd4971e4bfbc6cac00d0607f)
+
+Another World received official Ape Foundation license to use ApeCoin logos for game items and gameplay.
+
+Another World's draft litepaper can be found at https://docs.anotherworld.gg/
+
 
 Official Links
 ===
@@ -62,7 +67,6 @@ Launch Partners
 - Launch Partner - game infra (onchain game states, game items & score tokens): [ApeChain Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet)
 - Launch Partner - game launcher & in-game wallet verification & distribution: [HyperPlay](https://www.hyperplay.xyz/)
 - Launch Partner - game launcher: [Epic Games Store](https://store.epicgames.com/)
-- Launch Partner - game infra (pixel streaming & windows launcher): [VeVerse](https://veverse.com/)
 - Launch Partner - game infra (pixel streaming): [Arcware](https://arcware.com/)
 - Launch Partner - in-game wallet verification: [tokenproof](https://tokenproof.xyz/)
 - Launch Partner - digital fashion: [DMKTZ](https://dmktz.io/)
@@ -74,3 +78,4 @@ Launch Partners
 - Launch Partner - ape avatar: [@riv8if](https://twitter.com/riv8if)
 - Launch Partner - community arts: [OTHERspace](https://twitter.com/OTHERspaceFM)
 - Launch Partner - arts: [k10](https://twitter.com/K10WTF)
+- Launch Partner - arts: [ThankApe](https://thankape.com)
