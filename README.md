@@ -12,15 +12,15 @@
 
 ---
 
-Latest Release Build `v0.1.49` (Feb. 12, 2023)
+Latest Release Build `v0.1.50` (April 11, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.49
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.50
 
 Alpha Tester Program (Epic Games Store): [Join here](https://anotherworld.gg/alpha)
 
 Submit 2D arts and 3D assets: [Submit here](https://forms.gle/f8ATP4gx3ch9nxNA7)
 
-Another World is using [ApeChain Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet) (OP-Stack Sepolia L2) for minting Soul Crystals in the PVP zone.
+Another World is using [OP-Stack Testnet](https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/) (Sepolia L2) for minting Soul Crystals in the PVP zone.
 
 Another World is [MadeByApes#218](https://madeby.yuga.com/apes/product/0xdcfecf3a2f67469c2075dc9a4779ee955bfc57f1fd4971e4bfbc6cac00d0607f)
 
@@ -46,7 +46,6 @@ Github Links
 - Github organization: https://github.com/AnotherWorldDAO/
 - Unreal Engine 5 treasure hunt sample project: https://github.com/AnotherWorldDAO/ue5-treasurehunt
 - Game Contracts: https://github.com/AnotherWorldDAO/game-contracts
-- ApeChain Testnet [Explorer](https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/): https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet
 
 Game Assets
 ===
@@ -55,7 +54,7 @@ Game Assets
 - Game Prize contracts: $APE ([ETH](https://etherscan.io/address/0x496e83e7a74561c26d5151c0fce2cc400e884e49)), $OP ([OP1](https://optimistic.etherscan.io/address/0x0b69157f85fb767676428f0d32866ee2b53ffcc6)), $OP ([OP2](https://optimistic.etherscan.io/address/0x5556b094288a9e711eb579c75e0f5e6eeb5f551b)), $GG ([ApeChainTest1](https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/address/0x052a43E406bfFC89898e93C7e7b14097C73be6aE))
 - Crystals (game items on ApeChain Testnet): https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/token/0xEA37A064f1Eb0Da834fd01003e7831c902a42EFd/token-transfers
 - $GG (score tokens on ApeChain Testnet): https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/token/0x9565aAcf12F9Fcb3117AD69348455718AE04840C/token-holders
-- $GG (score tokens on SAGA Chainlet Testnet): https://anotherworld-1699646546050605-1.testnet-sp1.sagaexplorer.io/token/0x74BbDac19b8bE45B36560EA53A72C6cD0540cb17?tab=holders
+- $SPICE (score tokens on SAGA Chainlet Testnet): https://anotherworld-2712669395139000-1.sagaexplorer.io/token/0x9DE5B0CF9C58C3254637Bc031f594FD32DC1Bb7A
 - $GG (score tokens on SKALE Testnet): https://staging-fast-active-bellatrix.explorer.staging-v3.skalenodes.com/token/0x74BbDac19b8bE45B36560EA53A72C6cD0540cb17/token-transfers
 
 Launch Partners
@@ -64,7 +63,7 @@ Launch Partners
 - Launch Partner - game infra (onchain score tokens): [SAGA](https://saga.xyz/)
 - Launch Partner - game infra (onchain game states & items): [AltLayer](https://altlayer.io/)
 - Launch Partner - game infra (onchain score tokens): [SKALE](https://skale.space/)
-- Launch Partner - game infra (onchain game states, game items & score tokens): [ApeChain Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet)
+- Launch Partner - game infra (onchain game states, game items & score tokens): [OP-Stack Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet)
 - Launch Partner - game launcher & in-game wallet verification & distribution: [HyperPlay](https://www.hyperplay.xyz/)
 - Launch Partner - game launcher: [Epic Games Store](https://store.epicgames.com/)
 - Launch Partner - game infra (pixel streaming): [Arcware](https://arcware.com/)
