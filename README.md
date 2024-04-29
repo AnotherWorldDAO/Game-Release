@@ -12,9 +12,9 @@
 
 ---
 
-Latest Release Build `v0.1.50` (April 11, 2023)
+Latest Release Build `v0.1.51` (April 29, 2023)
 
-Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.50
+Release notes: https://github.com/AnotherWorldDAO/MultiplayerDemo/releases/tag/v0.1.51
 
 Alpha Tester Program (Epic Games Store): [Join here](https://anotherworld.gg/alpha)
 
@@ -54,15 +54,17 @@ Game Assets
 - Game Prize contracts: $APE ([ETH](https://etherscan.io/address/0x496e83e7a74561c26d5151c0fce2cc400e884e49)), $OP ([OP1](https://optimistic.etherscan.io/address/0x0b69157f85fb767676428f0d32866ee2b53ffcc6)), $OP ([OP2](https://optimistic.etherscan.io/address/0x5556b094288a9e711eb579c75e0f5e6eeb5f551b)), $GG ([ApeChainTest1](https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/address/0x052a43E406bfFC89898e93C7e7b14097C73be6aE))
 - Crystals (game items on ApeChain Testnet): https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/token/0xEA37A064f1Eb0Da834fd01003e7831c902a42EFd/token-transfers
 - $GG (score tokens on ApeChain Testnet): https://explorerl2-apechain-test-qbuapbatak.t.conduit.xyz/token/0x9565aAcf12F9Fcb3117AD69348455718AE04840C/token-holders
-- $SPICE (score tokens on SAGA Chainlet Testnet): https://anotherworld-2712669395139000-1.sagaexplorer.io/token/0x9DE5B0CF9C58C3254637Bc031f594FD32DC1Bb7A
 - $GG (score tokens on SKALE Testnet): https://staging-fast-active-bellatrix.explorer.staging-v3.skalenodes.com/token/0x74BbDac19b8bE45B36560EA53A72C6cD0540cb17/token-transfers
+- $SPICE (score tokens on SAGA Chainlet Testnet): https://anotherworld-2712669395139000-1.sagaexplorer.io/token/0x9DE5B0CF9C58C3254637Bc031f594FD32DC1Bb7A
+- $awSPICE (score tokens on BOB mainnet): https://explorer.gobob.xyz/address/0x8031A680409a6355cC680A4894F38B6c802C649d
 
 Launch Partners
 ===
+- Launch Partner - arts & game infra (onchain score tokens): [Harmony](https://harmony.one/)
 - Launch Partner - game infra (NFTs & onchain game states): [Optimism](https://www.optimism.io/)
-- Launch Partner - game infra (onchain score tokens): [SAGA](https://saga.xyz/)
-- Launch Partner - game infra (onchain game states & items): [AltLayer](https://altlayer.io/)
-- Launch Partner - game infra (onchain score tokens): [SKALE](https://skale.space/)
+- Launch Partner - game infra (onchain game states, score tokens): [SAGA](https://saga.xyz/)
+- Launch Partner - game infra (onchain game states, score tokens): [SKALE](https://skale.space/)
+- Launch Partner - game infra (onchain score tokens): [BOB](https://gobob.xyz/)
 - Launch Partner - game infra (onchain game states, game items & score tokens): [OP-Stack Testnet](https://github.com/AnotherWorldDAO/ApeChain-OPStack-SepoliaL2Testnet)
 - Launch Partner - game launcher & in-game wallet verification & distribution: [HyperPlay](https://www.hyperplay.xyz/)
 - Launch Partner - game launcher: [Epic Games Store](https://store.epicgames.com/)
